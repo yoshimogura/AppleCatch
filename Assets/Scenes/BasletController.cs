@@ -8,6 +8,7 @@ public class BasletController : MonoBehaviour
     public AudioClip appleSE;
     public AudioClip bombSE;
     AudioSource aud;
+    
     GameObject director;
     void Start()
     {
